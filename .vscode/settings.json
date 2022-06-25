@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "terminal.integrated.env.linux": {
+    
+    },
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+
+}
