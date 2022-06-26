@@ -14,12 +14,15 @@ body{
     margin: 0 auto;
 }
 #cabecera{
-    background: #33A;
+    background: #22A;
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
 
 }
 #cabecera #tagline{
@@ -27,6 +30,12 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 
+}
+
+#cabecera #logo{
+    width: 30px;
+    margin: 0;
+    padding: 0;
 }
 
 #container h1{
