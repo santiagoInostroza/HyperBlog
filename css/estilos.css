@@ -8,7 +8,7 @@ body{
 }
 #container{
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
@@ -19,7 +19,7 @@ body{
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em;
+    padding: 10px;
 
 }
 #cabecera #tagline{
@@ -33,8 +33,12 @@ body{
     font-size: 20px;
 }
 
+#container #post{
+    padding: 0.5em;
+}
+
 #footer{
-    padding: 0.5em 0;
+    padding:  10px;
     background: #ccc;
     text-align: center;
 }
